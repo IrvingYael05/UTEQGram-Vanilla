@@ -1,0 +1,20 @@
+{
+  "name": "UTEQGram - Momentos",
+  "short_name": "UTEQGram",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3f51b5",
+  "icons": [
+    {
+      "src": "/src/images/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/src/images/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

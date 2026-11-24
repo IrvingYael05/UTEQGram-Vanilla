@@ -1,0 +1,15 @@
+{
+  "name": "Proyecto UTEQGram",
+  "version": "1.0.0",
+  "description": "App sencilla parecia a IG",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
